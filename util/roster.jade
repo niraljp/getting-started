@@ -1,0 +1,15 @@
+ul#article-list
+  each entity in language.entities
+    - var klass = current.src === entity.src ? 'current' : '';
+    li.category(class=klass + ' category-' + entity.src)
+      h2
+        - var href = '/getting-started/' + (language.src.length ? language.src + '/' : '') + entity.src;
+        a(href=href, rel='bookmark', title='Permanent link to ' + entity.title) !{ entity.title }
+      |  
+      ul
+        each page in entity.entities
+          - var klass = current.src === page.src ? 'current' : '';
+          li(class=klass)
+            - var href = '/getting-started/' + (language.src.length ? language.src + '/' : '') + entity.src + '/' + page.src;
+            a(href=href, rel='bookmark', title='Permanent link to ' + page.title)
+              | !{ page.title }

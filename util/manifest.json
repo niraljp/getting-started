@@ -1,0 +1,67 @@
+{
+    "src": "",
+    "type": "home",
+    "entities": [
+        {
+            "type": "language",
+            "title": "English",
+            "src": "en",
+            "improve": "Improve this article",
+            "entities": [
+                {
+                    "title": "Why Sameroom",
+                    "type": "category",
+                    "src": "why-sameroom",
+                    "entities": []
+                },
+                {
+                    "title": "Authorization",
+                    "type": "category",
+                    "src": "authorization",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "irc",
+                            "title": "IRC"
+                        },
+                        {
+                            "type": "page",
+                            "src": "campfire",
+                            "title": "Campfire"
+                        },
+                        {
+                            "type": "page",
+                            "src": "hipchat",
+                            "title": "HipChat"
+                        },
+                        {
+                            "type": "page",
+                            "src": "flowdock",
+                            "title": "Flowdock"
+                        },
+                        {
+                            "type": "page",
+                            "src": "kato",
+                            "title": "Kato"
+                        },
+                        {
+                            "type": "page",
+                            "src": "slack",
+                            "title": "Slack"
+                        },
+                        {
+                            "type": "page",
+                            "src": "gitter",
+                            "title": "Gitter"
+                        },
+                        {
+                            "type": "page",
+                            "src": "skype",
+                            "title": "Skype"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

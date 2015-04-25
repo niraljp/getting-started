@@ -1,0 +1,136 @@
+doctype html
+html(lang='en-US')
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title 
+      | !{ current.title } 
+      if current.title
+        | |
+      |  Getting Started Guide—Sameroom.io
+    link(rel='stylesheet', type='text/css', href="sspro-2.010r/style.css")
+    style.
+      html {
+        font-family: 'Source Sans Pro';
+      }
+    link(rel='profile', href='http://gmpg.org/xfn/11')
+    link(rel='pingback', href='xmlrpc.php')
+    link(rel='alternate', type='application/rss+xml', title='Getting Started Guide—Sameroom.io » Feed', href='feed/index.html')
+    link(rel='alternate', type='application/rss+xml', title='Getting Started Guide—Sameroom.io » Comments Feed', href='comments/feed/index.html')
+    link#ajaxy-sf-common-css(rel='stylesheet', href='wp-content/plugins/ajaxy-search-form/themes/common.css%3Fver=4.0.css', type='text/css', media='all')
+    link#ajaxy-sf-selective-css(rel='stylesheet', href='wp-content/plugins/ajaxy-search-form/themes/selective.css%3Fver=4.0.css', type='text/css', media='all')
+    link#ajaxy-sf-theme-css(rel='stylesheet', href='wp-content/plugins/ajaxy-search-form/themes/default/style.css%3Fver=4.0.css', type='text/css', media='all')
+    link#sedlex_styles-css(rel='stylesheet', href='wp-content/sedlex/inline_styles/e7aad09adb8f671e2429c881ea72c3db092c99cb.css%3Fver=20141226.css', type='text/css', media='all')
+    link#kato-style-css(rel='stylesheet', href='wp-content/themes/kato/style.css', type='text/css', media='all')
+    link(href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css", rel="stylesheet")
+    script(type='text/javascript', src='wp-includes/js/jquery/jquery.js%3Fver=1.11.1')
+    script(type='text/javascript', src='wp-includes/js/jquery/jquery-migrate.min.js%3Fver=1.2.1')
+    script(type='text/javascript', src='wp-content/sedlex/inline_scripts/01dccd0af79d5a0008be3d29ee4d87b578ca3cbf.js%3Fver=20141226')
+    link(rel='EditURI', type='application/rsd+xml', title='RSD', href='xmlrpc.php%3Frsd')
+    link(rel='wlwmanifest', type='application/wlwmanifest+xml', href='wp-includes/wlwmanifest.xml')
+    |  
+    link(rel='prev', title='Room Drag-n-Drop', href='profile-cards/index.html%3Fp=318.html')
+    link(rel='next', title='Long Messages', href='room-types/index.html%3Fp=647.html')
+    meta(name='generator', content='WordPress 4.0')
+    link(rel='canonical', href='kato-for-mac/room-types.html')
+    link(rel='shortlink', href='index.html%3Fp=330.html')
+  body.single.single-post.postid-330.single-format-standard.custom-background
+    #page.hfeed.site
+      a.skip-link.screen-reader-text(href='kato-for-mac/room-types.html#content') Skip to content
+      | &#x9;
+      #content.site-content
+        #primary.content-area
+          main#main.site-main(role='main')
+            - var categoryClass = category ? 'category-' + category.src : null;
+            if !categoryClass
+              - categoryClass = current.type === 'category' ? 'category-' + current.src : '';
+            article#post-330.post-330.post.type-post.status-publish.format-standard.hentry(class=categoryClass)
+              header.entry-header
+                h1.entry-title 
+                  if current.type !== 'language'
+                    | !{ current.title }
+                | &#x9;&#x9;
+                .entry-meta
+                  span.posted-on
+                    | Posted on 
+                    a(href='kato-for-mac/room-types.html', rel='bookmark')
+                      time.entry-date.published(datetime='2014-08-26T00:59:55+00:00') August 26, 2014
+                      time.updated(datetime='2014-09-27T06:51:22+00:00') September 27, 2014
+                  span.byline
+                    | by 
+                    span.author.vcard
+                      a.url.fn.n(href='author/kato/index.html') kato
+                // .entry-meta
+              // .entry-header
+              .entry-content
+                include:markdown $$FILE_NAME$$
+              // .entry-content
+              footer.entry-footer
+                | This entry was posted in 
+                a(href='category/docs/general/index.html', rel='category tag') General
+                | . Bookmark the 
+                a(href='kato-for-mac/room-types.html', rel='bookmark') permalink
+                | .
+              // .entry-footer
+            // #post-##
+            nav.navigation.post-navigation(role='navigation')
+              h1.screen-reader-text Post navigation
+              | &#x9;&#x9;&#x9;&#x9;
+              .nav-links
+                .nav-previous
+                  if prev
+                    - var href = path + prev.src;
+                    a(href=href, rel='prev')
+                      span.meta-nav &larr;
+                      | &nbsp;!{ prev.title }
+                  else
+                    i.fa.fa-stop
+                //| &#x9;&#x9;&#x9;&#x9;&#x9;
+                //| &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+                //| &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+                .nav-middle
+                  - var href = 'https://github.com/kato-im' + path.replace('getting-started', 'getting-started/edit/master') + (current.type !== 'language' ? current.src + (current.type !== 'page' && current.type !== 'home' ? '/' : '') : '') + (current.type !== 'page' ? 'README.md' : '.md');
+                  a(href=href, target='_blank')
+                    i.fa.fa-github-alt
+                    |  !{ language.improve }
+
+                .nav-next
+                  if next
+                    - var href = path + next.src;
+                    a(href=href, rel='next')
+                      | !{ next.title }&nbsp;
+                      span.meta-nav &rarr;
+                  else
+                    i.fa.fa-stop
+                //| &#x9;&#x9;&#x9;&#x9;&#x9;
+              // .nav-links
+            // .navigation
+          // #main
+        // #primary
+        #secondary.widget-area(role='complementary')
+          aside#text-2.widget.widget_text
+            h1.widget-title Filter
+            | &#x9;&#x9;&#x9;
+            .textwidget
+              a.homeLink(href='/getting-started')
+              input#article-filter(placeholder='Filter by title...', type='text')
+              #no-search-results No search results
+          include $$ROSTER_NAME$$
+        // #secondary
+        a#side-nav-menu
+          div
+          |     
+          div
+          |     
+          div
+      // #content
+      footer#colophon.site-footer(role='contentinfo')
+      // #colophon
+    //a(href="https://github.com/kato-im/getting-started")
+    //  img(style="position: absolute; top: 0; left: 0; border: 0;", src="https://camo.githubusercontent.com/c6625ac1f3ee0a12250227cf83ce904423abf351/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f677261795f3664366436642e706e67", alt="Fork me on GitHub", data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_gray_6d6d6d.png")
+    // #page
+    script(type='text/javascript', src='wp-content/plugins/ajaxy-search-form/js/sf.js%3Fver=1.0.1')
+    script(type='text/javascript', src='wp-content/plugins/ajaxy-search-form/js/sf_selective.js%3Fver=1.0.0')
+    script(type='text/javascript', src='wp-content/themes/kato/js/navigation.js')
+    script(type='text/javascript', src='wp-content/themes/kato/js/skip-link-focus-fix.js')
+    script(type='text/javascript', src='wp-content/themes/kato/js/filter.js')
