@@ -58,7 +58,7 @@
                  {
                     "title": "Creating a bridge between two chat teams (Creating a Tube)",
                     "type": "category",
-                    "src": "authorization",
+                    "src": "tube",
                     "entities": [
                         {
                             "type": "page",
@@ -105,7 +105,7 @@
                  {
                     "title": "Sharing a chat room via a URL (Creating a Portal URL)",
                     "type": "category",
-                    "src": "authorization",
+                    "src": "portal",
                     "entities": [
                         {
                             "type": "page",
@@ -152,7 +152,7 @@
                  {
                     "title": "Joining a chat room via a Portal URL",
                     "type": "category",
-                    "src": "authorization",
+                    "src": "joinportal",
                     "entities": [
                         {
                             "type": "page",
