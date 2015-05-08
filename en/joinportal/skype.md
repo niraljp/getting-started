@@ -8,5 +8,5 @@ A Portal URL will allow you to connect to a channel or room on the senders chat 
 ### 4. Create a new channel in your Slack team or select a room from the dropdown menu (This is where messages from the Portal will be shown). You can also create a new room in Campfire and refresh the list
 ![Create or Select Channel](https://in.kato.im/c71619ccc8948f0cde5d7a7931249c5232a582b8ee6b75a6c1e8ead334742e8/Sameroom%20Join%20Portal%20Select%20Room%20Slack%20Destination.png)
 
-### 5. When you see this page, you’ll know Same-o-matic has worked his magic and the connection has been setup correctly
+### 5. When you see this page, the connection between your Slack channel and the senders channel or room has been setup correctly. From now on, all messages and files posted in the senders channel or room will be copied to your Slack channel, and vice versa
 ![Sameroom Success](https://in.kato.im/bc1ac42c1d1d5632a436e92b5b3603422261f99a64c602007a895ecd38973336/Sameroom%20Join%20Portal%20Success%20copy.png)
