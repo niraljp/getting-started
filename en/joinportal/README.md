@@ -2,6 +2,8 @@
 
 ## Joining a channel or room via a Portal URL
 
+Select your chat platform below
+
 [IRC](/getting-started/en/joinportal/irc)  
 [Campfire](/getting-started/en/joinportal/campfire)  
 [HipChat](/getting-started/en/joinportal/hipchat)  
