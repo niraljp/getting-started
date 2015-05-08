@@ -5,7 +5,7 @@
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
 ### 2. Click on the Slack logo
-![Select Slack on Sameroom Homepage](https://in.kato.im/c8e64565780f6a93e7b78d70bba93f0e185d0c87199736f14f961fea3d7ed5f8/Sameroom%20Select%20Slack.png)
+![Select Slack on Sameroom Homepage](https://in.kato.im/ef302cfe12c9947cab6e780de8649f67958387d7108a4fee2d2ac0b1541d95/Sameroom-Select-Platform-_0002_Slack.png)
 
 
 ### 3. Select your team in the pop-up window or sign into another team
