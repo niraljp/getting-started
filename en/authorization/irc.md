@@ -17,17 +17,7 @@ To learn more, please consult the [Freenode FAQ](https://freenode.net/faq.shtml#
 ### 2. Click on IRC
 ![clip.png](https://in.kato.im/246fb68b38147c229a9e70ebb351c6695d57b0c316b79fe7e650e975dc9feb30/clip.png)
 
-### 3. Enter your IRC Nickname
-
-### 4. Enter your NickServ password
-
-### 5. Enter your Host Address
-
-### 6. Enter your Port Number
-
-### 7. Select SSL (If necessary)
-
-### 8. Click Sign In
+### 3. Enter your irc credentials and Sign In
 ![clip.png](https://in.kato.im/a2418ce195c6aa81abb7ce61fbd695f7e931e6bade5696e24d1b84d9c0c5e21e/clip.png)
 
 ---
