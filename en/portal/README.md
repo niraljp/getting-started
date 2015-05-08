@@ -11,4 +11,4 @@ To create a Portal URL follow these steps:
 2. Type the name of the channel or chat room that you wish to share and click on it in the dropdown menu![Create or Select Channel](https://in.kato.im/36d49554b752b7144051ab70fb3db836b3e74edbbc60efbd62bed1009577403c/Sameroom%20Create%20Slack%20Portal%20copy.png)
 
 3. Share your Portal URL with anyone you’d like to invite to your channel or chat room
-![Your Sameroom Portal URL](https://in.kato.im/a8f289cbda01c4f320e8c565cfaa3586c019c35099df3a014cabc896ddcfc63e/Sameroom%20Create%20Portal%20Success%20copy.png)
+![Your Sameroom Portal URL]https://in.kato.im/b450e18e6de4847cc19396187d655a94b4a7bb5f6c417d0f7ba124d942f6738d/Sameroom%20Create%20Portal%20Success.png)
