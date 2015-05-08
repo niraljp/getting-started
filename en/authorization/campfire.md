@@ -8,7 +8,7 @@
 
 ### 2. Click on the Campfire Logo
 
-![clip.png](https://in.kato.im/117da42abb895446fad4d513dee75c3b494289820a168c63cdc701c5782f696/clip.png)
+![clip.png](https://in.kato.im/1a611815a61fe122f062f7e5fb16a174a80fdd4f75de69425e52034e40d0b1/Sameroom%20Campfire.png)
 
 ### 3. Login to your Basecamp account
 
