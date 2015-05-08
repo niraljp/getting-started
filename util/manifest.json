@@ -9,7 +9,7 @@
             "improve": "Improve this article",
             "entities": [
                 {
-                    "title": "Integrating Sameroom with your chat platform",
+                    "title": "Authorizing your chat platform",
                     "type": "category",
                     "src": "authorization",
                     "entities": [
@@ -56,7 +56,7 @@
                     ]
                 },
                 {
-                    "title": "Creating a bridge between two chat teams (Creating a Tube)",
+                    "title": "Connecting two chat teams",
                     "type": "category",
                     "src": "tube",
                     "entities": [
