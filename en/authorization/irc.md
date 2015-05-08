@@ -20,6 +20,9 @@ To learn more, please consult the [Freenode FAQ](https://freenode.net/faq.shtml#
 ### 3. Enter your irc credentials and Sign In
 ![clip.png](https://in.kato.im/a2418ce195c6aa81abb7ce61fbd695f7e931e6bade5696e24d1b84d9c0c5e21e/clip.png)
 
+
+Once you've logged in to your irc account on Sameroom, you can either connect two chat plaforms by creating a Tube or share a channel via a Portal URL. [LINK EACH OF THESE]
+
 ---
 
 Below is video example showing how to mirror a Freenode IRC channel in Slack.
