@@ -5,8 +5,7 @@
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
 ### 2. Click on the Kato Logo
-
-![clip.png](https://in.kato.im/aee5941c8c8321bf8f1ef6c14ca0f8f6f4958b6cd16cb6d4211f1bf41ba0a17/clip.png)
+![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0003_Kato.png)
 
 ### 3. Click “Already have an account?"![already have an account](https://in.kato.im/8bc677a66d6c7414b2dc1fb220a2617d82d15e2664c8349421ed05d07d907ff9/Sameroom_Kato_Already_Have_account%20copy.png)
 
