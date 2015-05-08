@@ -6,7 +6,7 @@
 
 ### 2. Click on the Gitter logo
 
-![clip.png](https://in.kato.im/5eb589683e5643956702d5a0e002c4bfe9329ad81d1c71946a302d0dc8a20a67/clip.png)
+![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0005_Gitter.png)
 
 ### 3. Choose **Existing User Login**
 
