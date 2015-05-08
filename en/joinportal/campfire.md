@@ -3,7 +3,7 @@
 ### 1. Go to the Portal URL you’ve received. The URL looks something like this `https://sameroom.io/98IX89`
 
 ### 2. Click on the Campfire logo
-![Sameroom Portal URL Welcome](https://in.kato.im/2a502c423187c8123da64859eef42d5d75cd13f5edd3191431294767f2a528b/Sameroom-Select-Platform-_0000_campfire.png)
+![Sameroom Portal URL Welcome](https://in.kato.im/b450e18e6de4847cc19396187d655a94b4a7bb5f6c417d0f7ba124d942f6738d/Sameroom-Select-Platform-_0000_campfire.png)
 
 ### 4. Select a room from the dropdown menu (This is where messages from the Portal will be shown). You can also create a new room in Campfire and refresh the list
 ![Create or Select Channel](https://in.kato.im/f3e2a5d2c14da062602e45bc1cf2b495b672087398f28d09162ded75ff6a848b/Sameroom%20Join%20Portal%20Select%20Room%20ALL.png)
