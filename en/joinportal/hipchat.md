@@ -3,7 +3,7 @@
 #### 1. Go to the Portal URL you’ve received. The URL looks something like this `https://sameroom.io/98IX89`
 
 #### 2. Click on the HipChat logo
-![Sameroom Portal URL Welcome](https://in.kato.im/7916e31d38c5fdeb63f6d580475220bc2cbca58cb467b8e3ba90e27dbb819d90/Sameroom-Select-Platform-_0004_Hipchat.png)
+![Sameroom Portal URL Welcome](https://in.kato.im/597deb04e39f2a4560f0aae085bf2db8ccbda0dccc01d40626c1b133a50ed585/Sameroom-Select-Platform-_0000_HipChat.png)
 
 #### 4. Create a new room in your HipChat team or select a room from the dropdown menu (This is where messages from the Portal will be shown)
 ![Create or Select Channel](https://in.kato.im/41e640b637b34088f30b1c49800cce589005320c6360bb521adf10dda129a450/Sameroom%20Join%20Portal%20Select%20Room%20HipChat%20Destination.png)
