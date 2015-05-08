@@ -10,7 +10,7 @@
 
 ### 4. Click Login
 
-![clip.png](https://in.kato.im/c67305a9e9f0dd785bb85969f96c38ffcda3030732a84e06ecc3622b1bb99fa6/clip.png)
+![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0004_Hipchat.png)
 
 ### 5. Click on **Re-create token** to re-create your Personal OAuth 2 Bearer Token
 
