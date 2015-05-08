@@ -21,3 +21,5 @@
 ### 6. Gitter will ask you to approve Sameroom access to your account. Click **Allow**
 
 ![clip.png](https://in.kato.im/29d88e01f80f080b483f49a668d7ad4d03f2aefd1485151d63a0271227fbe38/clip.png)
+
+Once you've authorized your Gitter account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tube/gitter) or, share a channel via a [Portal URL](/getting-started/en/portal/gitter).
