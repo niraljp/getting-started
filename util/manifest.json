@@ -55,104 +55,10 @@
                         }
                     ]
                 },
-                 {
+                {
                     "title": "Creating a bridge between two chat teams (Creating a Tube)",
                     "type": "category",
                     "src": "tube",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "irc",
-                            "title": "IRC"
-                        },
-                        {
-                            "type": "page",
-                            "src": "skype",
-                            "title": "Skype"
-                        },
-                        {
-                            "type": "page",
-                            "src": "campfire",
-                            "title": "Campfire"
-                        },
-                        {
-                            "type": "page",
-                            "src": "hipchat",
-                            "title": "HipChat"
-                        },
-                        {
-                            "type": "page",
-                            "src": "flowdock",
-                            "title": "Flowdock"
-                        },
-                        {
-                            "type": "page",
-                            "src": "kato",
-                            "title": "Kato"
-                        },
-                        {
-                            "type": "page",
-                            "src": "slack",
-                            "title": "Slack"
-                        },
-                        {
-                            "type": "page",
-                            "src": "gitter",
-                            "title": "Gitter"
-                        }
-                    ]
-                },
-                 {
-                    "title": "Sharing a chat room via a URL (Creating a Portal URL)",
-                    "type": "category",
-                    "src": "portal",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "irc",
-                            "title": "IRC"
-                        },
-                        {
-                            "type": "page",
-                            "src": "skype",
-                            "title": "Skype"
-                        },
-                        {
-                            "type": "page",
-                            "src": "campfire",
-                            "title": "Campfire"
-                        },
-                        {
-                            "type": "page",
-                            "src": "hipchat",
-                            "title": "HipChat"
-                        },
-                        {
-                            "type": "page",
-                            "src": "flowdock",
-                            "title": "Flowdock"
-                        },
-                        {
-                            "type": "page",
-                            "src": "kato",
-                            "title": "Kato"
-                        },
-                        {
-                            "type": "page",
-                            "src": "slack",
-                            "title": "Slack"
-                        },
-                        {
-                            "type": "page",
-                            "src": "gitter",
-                            "title": "Gitter"
-                        }
-                    ]
-                },
-                 {
-                    "title": "Joining a chat room via a Portal URL",
-                    "type": "category",
-                    "src": "joinportal",
                     "entities": [
                         {
                             "type": "page",
