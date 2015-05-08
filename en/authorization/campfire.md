@@ -13,3 +13,6 @@
 ### 3. Login to your Basecamp account
 
 ![clip.png](https://in.kato.im/89251c03321cb9fa55c3f7573993cb976c2fc75333ced553c633c623f510e3/clip.png)
+
+
+Once you've authorized your Campfire account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tube/campfire) or, share a channel via a [Portal URL](/getting-started/en/portal/campfire).
