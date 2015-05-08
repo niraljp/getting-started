@@ -22,7 +22,7 @@
 
 ### 7. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a> and click on the HipChat logo
 
-![clip.png](https://in.kato.im/67b84db61ac884c84e7921ded55c0ef5eb1e05987596d3c8cb23602ffb635abe/clip.png)
+![clip.png](https://in.kato.im/4c8bbe1a1338bc5da71ffd614e9be70a5694f208c138479c6de1a784f1d61d89/Sameroom%20HipChat.png)
 
 ### 8. Copy your OAuth 2 Bearer Token into the HipChat Token field and click **Submit**
 
