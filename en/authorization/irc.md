@@ -15,7 +15,7 @@ To learn more, please consult the [Freenode FAQ](https://freenode.net/faq.shtml#
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
 ### 2. Click on IRC
-![clip.png](https://in.kato.im/246fb68b38147c229a9e70ebb351c6695d57b0c316b79fe7e650e975dc9feb30/clip.png)
+![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0004_irc.png)
 
 ### 3. Enter your irc credentials and Sign In
 ![clip.png](https://in.kato.im/a2418ce195c6aa81abb7ce61fbd695f7e931e6bade5696e24d1b84d9c0c5e21e/clip.png)
