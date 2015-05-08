@@ -6,7 +6,7 @@
 
 ### 2. Click on the Skype logo
 
-![clip.png](https://in.kato.im/6e917e30525d1f9ef0611efde656179bbf15f00e1864630e78a082821049/clip.png)
+![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0006_Skype.png)
 
 ### 3. Sign into your Skype account
 ![Skype login on Sameroom](https://in.kato.im/ff8415e1ee85bf542171c5cb862dbc30fe899f43f9c76ca338898b2f928fe4a/Sameroom%20Sign%20In%20Skype%20copy.png)
