@@ -13,3 +13,5 @@
 ### 4. Enter your Kato credentials and click Sign In ![enter image description here](https://in.kato.im/afeec0fcdcd45c73b7e0808a0e5ff6fc38f390e4db5d6d517930d8c688bc79c/Sameroom%20Kato%20Login%20copy.png)
 
 ### 5. Kato will ask you to approve access to Sameroom—Click Allow![approve access](https://in.kato.im/72445279e5c3634c2b39a8b267b48905d33c6236484ff571e60f72bf8560acb/Sameroom%20Kato%20Allow%20Access%20copy.png)
+
+Once you've authorized your Kato account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tube/kato) or, share a channel via a [Portal URL](/getting-started/en/portal/kato).
