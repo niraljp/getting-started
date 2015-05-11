@@ -11,7 +11,7 @@
                 {
                     "title": "Authorizing your chat platform",
                     "type": "category",
-                    "src": "authorization",
+                    "src": "authorizing-sameroom",
                     "entities": [
                         {
                             "type": "page",
@@ -58,7 +58,7 @@
                 {
                     "title": "Connecting two chat teams",
                     "type": "category",
-                    "src": "tube",
+                    "src": "connecting-two-chat-teams",
                     "entities": [
                         {
                             "type": "page",
