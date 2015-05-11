@@ -1,8 +1,8 @@
 This guide shows you how to connect a channel in Slack to a flow in Flowdock.
 
-You can also start by connecting a Skype conversation to a Slack channel; the process for this is exactly the same.
+You can also start by connecting a Flowdock Flow to a Slack channel; the process for this is exactly the same.
 
-1. Before you proceed, ensure you have authorized Sameroom with both your Slack and Skype accounts.
+1. Before you proceed, ensure you have authorized Sameroom with both your Slack and Flowdock accounts.
 
 1. Once you've logged it, click on the <a href="https://sameroom.io/open-a-tube" target="_blank">Open a Tube</a> link![Sameroom Opening a Tube](https://in.kato.im/b65b6e45dfc98d42e682cf1fa5a358f691729cf97a89faeef303c44703c/Sameroom%20Open%20Tube.png)
 
