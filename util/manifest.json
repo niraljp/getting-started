@@ -11,7 +11,7 @@
                 {
                     "title": "Authorizing your chat platform",
                     "type": "category",
-                    "src": "authorizing-sameroom",
+                    "src": "authorizing",
                     "entities": [
                         {
                             "type": "page",
@@ -58,7 +58,7 @@
                 {
                     "title": "Connecting two chat teams",
                     "type": "category",
-                    "src": "connecting-two-chat-teams",
+                    "src": "tubes",
                     "entities": [
                         {
                             "type": "page",
@@ -101,8 +101,114 @@
                             "title": "Gitter"
                         }
                     ]
+                },
+                {
+                    "title": "Add Accounts",
+                    "type": "category",
+                    "src": "accounts",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "irc",
+                            "title": "IRC"
+                        },
+                        {
+                            "type": "page",
+                            "src": "skype",
+                            "title": "Skype"
+                        },
+                        {
+                            "type": "page",
+                            "src": "campfire",
+                            "title": "Campfire"
+                        },
+                        {
+                            "type": "page",
+                            "src": "hipchat",
+                            "title": "HipChat"
+                        },
+                        {
+                            "type": "page",
+                            "src": "flowdock",
+                            "title": "Flowdock"
+                        },
+                        {
+                            "type": "page",
+                            "src": "kato",
+                            "title": "Kato"
+                        },
+                        {
+                            "type": "page",
+                            "src": "slack",
+                            "title": "Slack"
+                        },
+                        {
+                            "type": "page",
+                            "src": "gitter",
+                            "title": "Gitter"
+                        }
+                    ]
+                },
+                {
+                    "title": "Joining",
+                    "type": "category",
+                    "src": "joining",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "irc",
+                            "title": "IRC"
+                        },
+                        {
+                            "type": "page",
+                            "src": "skype",
+                            "title": "Skype"
+                        },
+                        {
+                            "type": "page",
+                            "src": "campfire",
+                            "title": "Campfire"
+                        },
+                        {
+                            "type": "page",
+                            "src": "hipchat",
+                            "title": "HipChat"
+                        },
+                        {
+                            "type": "page",
+                            "src": "flowdock",
+                            "title": "Flowdock"
+                        },
+                        {
+                            "type": "page",
+                            "src": "kato",
+                            "title": "Kato"
+                        },
+                        {
+                            "type": "page",
+                            "src": "slack",
+                            "title": "Slack"
+                        },
+                        {
+                            "type": "page",
+                            "src": "gitter",
+                            "title": "Gitter"
+                        }
+                    ]
+                },
+                {
+                    "title": "Portal",
+                    "type": "category",
+                    "src": "portals",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "README",
+                            "title": "Creating Portal"
+                        }
+                    ]
                 }
-            ]
+                ]
         }
     ]
 }
