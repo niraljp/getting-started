@@ -1,4 +1,4 @@
-This section outlines the first step in getting started with Sameroom. You'll need to authorize Sameroom to integrate with your chat platform. If you are part of two chat teams on different platforms, pick one to authorize first and you can [add more platforms](/getting-started/en/add-account/readme.md)] to your account later.
+This section outlines the first step in getting started with Sameroom. You'll need to authorize Sameroom to integrate with your chat platform. If you are part of two chat teams on different platforms, pick one to authorize first and you can [add more platforms](/getting-started/en/add-account/readme.md) to your account later.
 
 ## Authorizing Your Chat Platform
 
