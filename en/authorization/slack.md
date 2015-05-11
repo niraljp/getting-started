@@ -7,7 +7,6 @@
 ### 2. Click on the Slack logo
 ![Select Slack on Sameroom Homepage](https://in.kato.im/ef302cfe12c9947cab6e780de8649f67958387d7108a4fee2d2ac0b1541d95/Sameroom-Select-Platform-_0002_Slack.png)
 
-
 ### 3. Select your team in the pop-up window or sign into another team
 ![Select your team](https://in.kato.im/240cbcbb342402312fa7151b4bd2e675c6e382bfcfd53d0fc237fff2ea31ede/Sameroom%20Select%20Slack%20Team%20copy.png)
 
@@ -17,4 +16,4 @@
 ### 4. Once you’ve signed into your team click “Authorizify”
 ![Authorize Slack](https://in.kato.im/87ae75b3e8b55eb5a119eaa24ec391de561c3869bdb3855a8c9a71bcba5cb155/Sameroom%20Authorize%20Slack%20copy.png)
 
-### Once you've authorized your Slack account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tube/slack) or, share a channel via a [Portal URL](/getting-started/en/portal/slack).
+### Once you've authorized your Slack account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tube/slack) or, share a channel via a [Portal URL](/getting-started/en/portal/slack).
