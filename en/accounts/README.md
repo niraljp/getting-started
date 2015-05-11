@@ -1,6 +1,7 @@
-## Adding a New Chat Platform to Sameroom
+## Adding a New Chat Account to Sameroom
 
-Click on your platform below and follow the instructions on the page to add the platform to your Sameroom account.
+
+Click on your platform below and follow the instructions on the page to add a new chat account to your Sameroom account.
 
 [IRC](/getting-started/en/add-account/irc)  
 [Campfire](/getting-started/en/add-account/campfire)  
