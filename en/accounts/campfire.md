@@ -12,6 +12,6 @@ To add a Campfire team to your Sameroom account follow these steps.
 
 5. Click “Yes, I'll allow access”
 
-![Flowdock logo on Sameroom](https://in.kato.im/8ad50d6a13ce559ffcb695c85fa61f54c2da6df26ffc49ee3be370a3ec590c8f/Sameroom%20Campfire%20Authorize%202.png)
+![Campfire Authorize Sameroom](https://in.kato.im/8ad50d6a13ce559ffcb695c85fa61f54c2da6df26ffc49ee3be370a3ec590c8f/Sameroom%20Campfire%20Authorize%202.png)
 
 Now that you've added Campfire to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between a Campfire room and a chat room or channel in any of the other teams connected to your Sameroom account.
