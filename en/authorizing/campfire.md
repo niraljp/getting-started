@@ -19,6 +19,6 @@ A ”bot” user account will be the account used to create the Tube between Sla
 2. Click “Add an Account”
 3. Click on the Campfire Logo![Campfire on Sameroom](https://in.kato.im/f3c020d24f45a3b830b5b8fb81956b4d796cbaeed80ec825cb6b509fe56af21e/Sameroom%20Add%20Campfire%20Account%20copy.png)
 
-4. Enter the "bot" account credentials![Campfire logo on Sameroom](https://in.kato.im/8ad50d6a13ce559ffcb695c85fa61f54c2da6df26ffc49ee3be370a3ec590c8f/Sameroom%20Campfire%20Authorize%201.png)
+4. Enter the "bot" account credentials![Campfire logo on Sameroom](https://in.kato.im/ea3ee090c3ecaad0f7d98dfdb24ed20e5a89238a140febb8aefd2e7b21478f/Sameroom%20Login%20to%20Campfire.png)
 
-5. Click “Yes, I'll allow access” ![Campfire logo on Sameroom](https://in.kato.im/8ad50d6a13ce559ffcb695c85fa61f54c2da6df26ffc49ee3be370a3ec590c8f/Sameroom%20Campfire%20Authorize%202.png)
+5. Click “Yes, I'll allow access” ![Campfire logo on Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
