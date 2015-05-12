@@ -1,6 +1,6 @@
 ---
 
-## Authorizing with Skype
+## Authorizing Sameroom with Skype
 
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
