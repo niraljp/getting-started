@@ -10,6 +10,6 @@ You can also start by connecting a IRC channel to a Slack channel; the process f
 
 4. Type the name of the IRC channel you’d like to connect to and select it in the dropdown menu![Side B - Connecting To](https://in.kato.im/c4165374685fbc568c4ce5978ef1cbe531b1e5538df511480af925034d7308c/Sameroom%20Create%20Tube%20Side%20B%20copy.png)
 
-5. When you see this page, you’ll know Same-o-matic has worked his magic and the Tube has been setup correctly![Tube Success](https://in.kato.im/3355fd0f56485c30d10f5e7062eeff175482f1e16a3baa86c4e297ce3be2d27/Sameroom%20Skype%20Tube%20Success%20copy%20%281%29.png)
+5. When you see this page, you’ll know Same-o-matic has worked his magic and the Tube has been setup correctly![Tube Success](https://in.kato.im/73771c9552e6bd2fa2981866841ecc8e259fd401c8abf7cc5d3da4369dfc143/Sameroom-Select-Platform-_0000_IRC.png)
 
 From now on, all messages received in the Slack channel will be shown in your IRC channel and vice versa.
