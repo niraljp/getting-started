@@ -4,7 +4,8 @@ You can also start by connecting a HipChat room to a Slack channel; the process 
 
 1. Before you proceed, ensure you have authorized Sameroom with both your Slack and HipChat accounts.
 
-2. Once you've logged it, click on the <a href="https://sameroom.io/open-a-tube" target="_blank">Open a Tube</a> link![Sameroom Opening a Tube](https://in.kato.im/b65b6e45dfc98d42e682cf1fa5a358f691729cf97a89faeef303c44703c/Sameroom%20Open%20Tube.png)
+2. Once you've logged it, click on the <a href="https://sameroom.io/open-a-tube" target="_blank">Open a Tube</a> link![Sameroom Opening a Tube](https://in.kato.im/e021132e67acf994d191a885ced37b56ca5155564db4a5d9d30146245ce6252/Sameroom%20Open%20Tube.png)
+
 
 3. Type the name of the Slack channel (or HipChat room) you’d like to connect from and select it in the dropdown menu
 ![Side A - Connecting From](https://in.kato.im/92a0ee76d12d66d157ac423ded74b505d7f6346a51078597f66cd88080b217db/Sameroom%20Create%20Tube%20Side%20A%20copy.png)
