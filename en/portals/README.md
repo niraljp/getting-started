@@ -1,6 +1,6 @@
 ---
 
-## Sharing a channel or chat room via a Portal URL
+## Sharing a Channel or Chat Room via a Portal URL
 
 This is useful for sharing a channel or chat room with many users at once. Portal URL are unique links that are connected to your channel or chat room.
 
