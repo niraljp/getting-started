@@ -1,4 +1,8 @@
-##A Portal URL will allow you to connect to a channel or room on the senders chat platform with your HipChat account. 
+---
+
+##Joining a Portal with HipChat
+
+###A Portal URL will allow you to connect to a channel or room on the senders chat team with your HipChat account. 
 
 #### 1. Go to the Portal URL you’ve received. The URL looks something like this `https://sameroom.io/98IX89`
 
