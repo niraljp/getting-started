@@ -5,9 +5,13 @@
 
 1. Log in to your <a href="https://www.hipchat.com/sign_in" target="_blank">HipChat account </a>
 2. Click on Group Admin (You'll need admin access)
+![HipChat Group Admin](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom_HipChat_Group_Admin.png)
 3. Click on the Users tab
+![HipChat Users Tab](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom_Click_users.png)
 5. Click on Add
+![Add HipChat User](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom_Add_User.png)
 6. Enter the details for a new user—for example, if your email address is alice@example.com, you can invite alice+sameroom-campfire-bot@example.com, which will go to your regular inbox
+![HipChat User Details](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom%20HipChat%20Add%20User.png)
 7. Follow the instructions in the HipChat email to setup the "bot" user account
 
 ### 1. Go to your <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page
