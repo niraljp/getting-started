@@ -1,3 +1,6 @@
+---
+###Add a New Gitter Account to Sameroom
+
 To add a Gitter team to your Sameroom account follow these steps.
 
 1. Go to your <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page
