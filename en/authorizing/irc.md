@@ -10,8 +10,6 @@ To register your nick on Freenode, connect to the network and issue the followin
 
 To learn more, please consult the [Freenode FAQ](https://freenode.net/faq.shtml#registering).
 
----
-
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
 ### 2. Click on IRC
