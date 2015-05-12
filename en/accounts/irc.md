@@ -1,3 +1,7 @@
+---
+###Add a New IRC Account to Sameroom
+
+
 To add an irc account to your Sameroom account follow these steps.
 
 
