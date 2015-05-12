@@ -9,7 +9,7 @@
             "improve": "Improve this article",
             "entities": [
                 {
-                    "title": "Authorizing your chat platform",
+                    "title": "Authorizing",
                     "type": "category",
                     "src": "authorizing",
                     "entities": [
@@ -56,49 +56,14 @@
                     ]
                 },
                 {
-                    "title": "Connecting two chat teams",
+                    "title": "Connecting Two Teams",
                     "type": "category",
                     "src": "tubes",
                     "entities": [
                         {
                             "type": "page",
-                            "src": "irc",
-                            "title": "IRC"
-                        },
-                        {
-                            "type": "page",
-                            "src": "skype",
-                            "title": "Skype"
-                        },
-                        {
-                            "type": "page",
-                            "src": "campfire",
-                            "title": "Campfire"
-                        },
-                        {
-                            "type": "page",
-                            "src": "hipchat",
-                            "title": "HipChat"
-                        },
-                        {
-                            "type": "page",
-                            "src": "flowdock",
-                            "title": "Flowdock"
-                        },
-                        {
-                            "type": "page",
-                            "src": "kato",
-                            "title": "Kato"
-                        },
-                        {
-                            "type": "page",
-                            "src": "slack",
-                            "title": "Slack"
-                        },
-                        {
-                            "type": "page",
-                            "src": "gitter",
-                            "title": "Gitter"
+                            "src": "README",
+                            "title": "Creating a Tube"
                         }
                     ]
                 },
@@ -150,7 +115,7 @@
                     ]
                 },
                 {
-                    "title": "Joining",
+                    "title": "Joining a Portal",
                     "type": "category",
                     "src": "joining",
                     "entities": [
@@ -197,13 +162,13 @@
                     ]
                 },
                 {
-                    "title": "Portal",
+                    "title": "Sharing a Chat",
                     "type": "category",
                     "src": "portals",
                     "entities": [
                         {
                             "type": "page",
-                            "src": "readme.md",
+                            "src": "README",
                             "title": "Creating Portal"
                         }
                     ]
