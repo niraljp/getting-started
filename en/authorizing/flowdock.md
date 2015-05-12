@@ -1,6 +1,6 @@
 ---
 
-## Authorizing with Flowdock
+## Authorizing Flowdock to integrate with Sameroom
 
 
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
