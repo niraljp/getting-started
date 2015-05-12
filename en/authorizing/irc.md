@@ -32,7 +32,7 @@ Below is video example showing how to mirror a Freenode IRC channel in Slack.
 
 ---
 
-Sameroom will only let you connect registered channels. To register a channel #foo, follow these steps:
+Sameroom will only let you connect registered channels. For example, to register a channel "#foo", follow these steps:
 
 `/join #foo`
 
