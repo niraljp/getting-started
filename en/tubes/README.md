@@ -1,6 +1,6 @@
 ---
 
-## Connecting Two Chat Taams Using a Tube
+## Connecting Two Chat Teams Using a Tube
 
 This guide shows you how to connect channel or rooms between two teams. You can connect channels and rooms between Slack, Skype, HipChat, IRC, Kato, Campfire, Gitter and Flowdock.
 
