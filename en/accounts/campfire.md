@@ -1,5 +1,6 @@
 ---
-###Add a New Campfire Account to Sameroom
+###Add a Campfire Account to your Sameroom Account
+
 
 To add a Campfire team to your Sameroom account follow these steps.
 
