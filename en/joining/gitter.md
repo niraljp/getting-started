@@ -3,7 +3,7 @@
 ### 1. Go to the Portal URL you’ve received. The URL looks something like this `https://sameroom.io/98IX89`
 
 ### 2. Click on the Gitter logo
-![Sameroom Portal URL Welcome](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0005_Gitter.png)
+![Sameroom Portal URL Welcome](https://in.kato.im/ef302cfe12c9947cab6e780de8649f67958387d7108a4fee2d2ac0b1541d95/Sameroom-Select-Platform-_0003_Gitter.png)
 
 ### 4. Select a room from the dropdown menu (This is where messages from the Portal will be shown). You can also create a new room in Gitter and refresh the list
 ![Create or Select Channel](https://in.kato.im/f3e2a5d2c14da062602e45bc1cf2b495b672087398f28d09162ded75ff6a848b/Sameroom%20Join%20Portal%20Select%20Room%20ALL.png)
