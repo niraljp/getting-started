@@ -1,5 +1,5 @@
 ---
-###Add a New Skype Account to Sameroom
+###Add a Skype Account to your Sameroom Account
 
 
 To add a Skype account to your Sameroom account follow these steps.
