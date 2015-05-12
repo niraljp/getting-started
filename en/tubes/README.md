@@ -1,9 +1,8 @@
-This guide shows you how to connect channel or rooms between two teams.
+This guide shows you how to connect channel or rooms between two teams. You can connect channels and rooms between Slack, Skype, HipChat, IRC, Kato, Campfire, Gitter and Flowdock.
 
 1. Before you proceed, ensure you have authorized Sameroom with both of the accounts that you wish to connect
 
 2. Once you've logged it, click on the <a href="https://sameroom.io/open-a-tube" target="_blank">Open a Tube</a> link![Sameroom Opening a Tube](https://in.kato.im/e021132e67acf994d191a885ced37b56ca5155564db4a5d9d30146245ce6252/Sameroom%20Open%20Tube.png)
-
 
 3. Type the name of the channel or room you’d like to connect from and select it in the dropdown menu
 ![Side A - Connecting From](https://in.kato.im/92a0ee76d12d66d157ac423ded74b505d7f6346a51078597f66cd88080b217db/Sameroom%20Create%20Tube%20Side%20A%20copy.png)
@@ -15,17 +14,3 @@ This guide shows you how to connect channel or rooms between two teams.
 ![Tube Success](https://in.kato.im/3355fd0f56485c30d10f5e7062eeff175482f1e16a3baa86c4e297ce3be2d27/Sameroom%20Skype%20Tube%20Success%20copy%20%281%29.png)
 
 From now on, all messages received in Side A will be shown in Side B and vice versa.
-
-
----
-
-## Creating a Tube to connect two platforms
-
-[IRC](/getting-started/en/connecting-two-chat-teams/irc)  
-[Campfire](/getting-started/en/connecting-two-chat-teams/campfire)  
-[HipChat](/getting-started/en/connecting-two-chat-teams/hipchat)  
-[Flowdock](/getting-started/en/connecting-two-chat-teams/flowdock)  
-[Kato](/getting-started/en/connecting-two-chat-teams/kato)  
-[Slack](/getting-started/en/connecting-two-chat-teams/slack)  
-[Gitter](/getting-started/en/connecting-two-chat-teams/gitter)  
-[Skype](/getting-started/en/connecting-two-chat-teams/skype)
