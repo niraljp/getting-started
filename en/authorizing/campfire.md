@@ -16,9 +16,12 @@ A ”bot” user account will be the account used to create the Tube between Sla
 ### 2. Authorizing Campfire to work with Sameroom
 
 1. Go to your Sameroom <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page
-2. Click “Add an Account”
-3. Click on the Campfire Logo![Campfire on Sameroom](https://in.kato.im/f3c020d24f45a3b830b5b8fb81956b4d796cbaeed80ec825cb6b509fe56af21e/Sameroom%20Add%20Campfire%20Account%20copy.png)
+3. Click on the Campfire Logo![Campfire on Sameroom](https://in.kato.im/b450e18e6de4847cc19396187d655a94b4a7bb5f6c417d0f7ba124d942f6738d/Sameroom-Select-Platform-_0001_Campfire.png)
 
 4. Enter the "bot" account credentials![Campfire logo on Sameroom](https://in.kato.im/ea3ee090c3ecaad0f7d98dfdb24ed20e5a89238a140febb8aefd2e7b21478f/Sameroom%20Login%20to%20Campfire.png)
 
 5. Click “Yes, I'll allow access” ![Campfire logo on Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
+
+
+Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes/campfire) or, share a channel via a [Portal URL](/getting-started/en/portals/campfire).
+
