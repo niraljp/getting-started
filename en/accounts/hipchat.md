@@ -1,5 +1,5 @@
 ---
-###Add a New HipChat Account to Sameroom
+###Add a HipChat Account to your Sameroom Account
 
 
 To add a HipChat team to your Sameroom account follow these steps.
