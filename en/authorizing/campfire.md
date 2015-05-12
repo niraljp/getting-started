@@ -4,8 +4,6 @@
 
 **Note**: due to certain limitations of the Campfire platform, we highly recommend inviting a ”sameroom bot” account to your Campfire team, and using this account to create Portals and Tubes on Sameroom. (why a bot? <a href="https://sameroom.io/faq#campfire" target="_blank">see the FAQ for an explanation</a>)
 
-### 1. Creating a Bot user in Campfire
-
 A ”bot” user account will be the account used to create the Tube between Slack and Campfire on Sameroom. 
 
 1. Login to your [Campfire account](https://launchpad.37signals.com/campfire/signin) (you'll need admin access)
@@ -15,14 +13,12 @@ A ”bot” user account will be the account used to create the Tube between Sla
 
 5. Follow the instructions in the Campfire email to setup the "bot" user account
 
-### 2. Authorizing Campfire to work with Sameroom
+6. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
+7. Click on the Campfire Logo![Campfire on Sameroom](https://in.kato.im/b450e18e6de4847cc19396187d655a94b4a7bb5f6c417d0f7ba124d942f6738d/Sameroom-Select-Platform-_0001_Campfire.png)
 
-1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
-2. Click on the Campfire Logo![Campfire on Sameroom](https://in.kato.im/b450e18e6de4847cc19396187d655a94b4a7bb5f6c417d0f7ba124d942f6738d/Sameroom-Select-Platform-_0001_Campfire.png)
+8. Enter the "bot" account credentials![Campfire logo on Sameroom](https://in.kato.im/ea3ee090c3ecaad0f7d98dfdb24ed20e5a89238a140febb8aefd2e7b21478f/Sameroom%20Login%20to%20Campfire.png)
 
-3. Enter the "bot" account credentials![Campfire logo on Sameroom](https://in.kato.im/ea3ee090c3ecaad0f7d98dfdb24ed20e5a89238a140febb8aefd2e7b21478f/Sameroom%20Login%20to%20Campfire.png)
-
-4. Click “Yes, I'll allow access” ![Campfire logo on Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
+9. Click “Yes, I'll allow access” ![Campfire logo on Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
 
 
 Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes/campfire) or, share a channel via a [Portal URL](/getting-started/en/portals/campfire).
