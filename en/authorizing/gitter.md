@@ -1,6 +1,6 @@
 ---
 
-## Authorizing with Gitter
+## Authorizing Sameroom with Gitter
 
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
