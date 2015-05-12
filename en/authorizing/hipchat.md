@@ -24,7 +24,7 @@
 
 8. Go to the <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and **login with your "bot" user credentials**
 
-9. Click on **Re-create token** to re-create your Personal OAuth 2 Bearer Token
+9. Click on "Re-create token" to re-create your Personal OAuth 2 Bearer Token
 ![clip.png](https://in.kato.im/dd9055f7d2f3bcad535ee373c06d649993c5d30f919639e6bb1b9665efa7a016/Sameroom_HipChat_Account_Settings.png)
 
 10. Click OK in the Pop Up Message
