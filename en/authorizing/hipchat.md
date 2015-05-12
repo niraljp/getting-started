@@ -2,6 +2,13 @@
 
 **Note**: due to certain limitations of the HipChat API, we highly recommend inviting a ”sameroom bot” account to your HipChat team, and using this account to create Portals and Tubes on Sameroom.
 
+
+1. Login to your HipChat account
+2. Click on Group Admin (You'll need admin access)
+3. Click on Add 
+4. Enter the details for a new user—for example, if your email address is alice@example.com, you can invite alice+sameroom-campfire-bot@example.com, which will go to your regular inbox
+5. Follow the instructions in the HipChat email to setup the "bot" user account
+
 ### 1. Go to your <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and log in
 
 ### 5. Click on **Re-create token** to re-create your Personal OAuth 2 Bearer Token
