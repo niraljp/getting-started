@@ -2,7 +2,7 @@
 
 ##Joining a Portal with Kato
 
-###A Portal URL will allow you to connect to a channel or room on the senders chat platform with your Kato account.
+###A Portal URL will allow you to connect to a channel or room on the senders chat team with your Kato account.
 
 ### 1. Go to the Portal URL you’ve received. The URL looks something like this `https://sameroom.io/98IX89`
 
