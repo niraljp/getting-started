@@ -1,6 +1,5 @@
----
-
 ## Authorizing Sameroom with IRC
+---
 
 We have optimized Sameroom to work with Freenode. The experience with other networks may vary—please let us know if you're experiencing any issues.
 
@@ -9,6 +8,8 @@ To register your nick on Freenode, connect to the network and issue the followin
 `/msg NickServ REGISTER password youremail@example.com`
 
 To learn more, please consult the [Freenode FAQ](https://freenode.net/faq.shtml#registering).
+
+---
 
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
