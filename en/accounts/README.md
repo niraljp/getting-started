@@ -1,13 +1,12 @@
-## Adding a New Chat Account to Sameroom
+## Adding a New Chat Team to Sameroom
 
+Click on your platform below and follow the instructions on the page to add a new chat team to your Sameroom account. Once you've added a new team, you can create a Tube to connect channels and rooms between the two chat teams.
 
-Click on your platform below and follow the instructions on the page to add a new chat account to your Sameroom account.
-
-[IRC](/getting-started/en/add-account/irc)  
-[Campfire](/getting-started/en/add-account/campfire)  
-[HipChat](/getting-started/en/add-account/hipchat)  
-[Flowdock](/getting-started/en/add-account/flowdock)  
-[Kato](/getting-started/en/add-account/kato)  
-[Slack](/getting-started/en/add-account/slack)  
-[Gitter](/getting-started/en/add-account/gitter)  
-[Skype](/getting-started/en/add-account/skype)
+[IRC](/getting-started/en/accounts/irc)  
+[Campfire](/getting-started/en/accounts/campfire)  
+[HipChat](/getting-started/en/accounts/hipchat)  
+[Flowdock](/getting-started/en/accounts/flowdock)  
+[Kato](/getting-started/en/accounts/kato)  
+[Slack](/getting-started/en/accounts/slack)  
+[Gitter](/getting-started/en/accounts/gitter)  
+[Skype](/getting-started/en/accounts/skype)
