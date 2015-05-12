@@ -1,5 +1,5 @@
 ---
-###Add a New Kato Account to Sameroom
+###Add a Kato Account to your Sameroom Account
 
 
 To add a Kato team to your Sameroom account follow these steps.
