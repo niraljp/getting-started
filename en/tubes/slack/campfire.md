@@ -12,7 +12,7 @@ You can also start by connecting a Campfire room to a Slack channel; the process
 3. Search for the room in Campfire you’d like to connect to and select it in the dropdown menu![Side B - Connecting To](https://in.kato.im/c4165374685fbc568c4ce5978ef1cbe531b1e5538df511480af925034d7308c/Sameroom%20Create%20Tube%20Side%20B%20copy.png)
 
 4. When you see this page, you’ll know Same-o-matic has worked his magic and the Tube has been setup correctly.
-![Campfire Tube Success](https://in.kato.im/8ad50d6a13ce559ffcb695c85fa61f54c2da6df26ffc49ee3be370a3ec590c8f/Sameroom%20Slack%20Campfire%20Tube%20Success.png)
+![Campfire Tube Success](https://in.kato.im/588b2b3e2111dbbbf3aa681738241d623a8167ea78e04f8d40582b73d711af0b/Sameroom%20Campgfire%20Connection%20Success.png)
 
 
 From now on, all messages received in the Slack channel will be shown in your Campfire room and vice versa.
