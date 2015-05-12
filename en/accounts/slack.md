@@ -1,5 +1,5 @@
 ---
-###Add a New Slack Account to Sameroom
+###Add a Slack Account to your Sameroom Account
 
 
 
