@@ -1,3 +1,5 @@
+---
+
 ## Authorizing Sameroom with Kato
 
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
