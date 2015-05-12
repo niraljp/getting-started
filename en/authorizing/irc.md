@@ -1,6 +1,6 @@
 ---
 
-## Authorizing with IRC
+## Authorizing Sameroom with IRC
 
 We have optimized Sameroom to work with Freenode. The experience with other networks may vary—please let us know if you're experiencing any issues.
 
