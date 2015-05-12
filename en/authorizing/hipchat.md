@@ -24,7 +24,7 @@
 
 8. Go to the <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and **login with your "bot" user credentials**
 
-9. Click on "Re-create token" to re-create your Personal OAuth 2 Bearer Token
+9. Click on "Re-create token" to re-create the "bot" users Personal OAuth 2 Bearer Token
 ![clip.png](https://in.kato.im/dd9055f7d2f3bcad535ee373c06d649993c5d30f919639e6bb1b9665efa7a016/Sameroom_HipChat_Account_Settings.png)
 
 10. Click OK in the Pop Up Message
@@ -32,7 +32,7 @@
 11. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a> and click on the HipChat logo
 ![clip.png](https://in.kato.im/4c8bbe1a1338bc5da71ffd614e9be70a5694f208c138479c6de1a784f1d61d89/Sameroom%20HipChat.png)
 
-12. Copy your OAuth 2 Bearer Token into the HipChat Token field and click **Submit**
+12. Copy the OAuth 2 Bearer Token into the HipChat Token field and click **Submit**
 ![clip.png](https://in.kato.im/d8d4f1003421016ba7d54cd669dde49319229ba235bc766285b205fd2d44078d/Sameroom%20Sign%20In%20HipChat%20copy.png)
 
 Once you've authorized your HipChat account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tube/hipchat) or, share a channel via a [Portal URL](/getting-started/en/portal/hipchat).
