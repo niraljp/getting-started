@@ -13,6 +13,8 @@ A ”bot” user account will be the account used to create the Tube between Sla
 3. Click on "Invite a new user"![Campfire Invite New User](https://in.kato.im/adfcd5c5becfa666c6cf186c3b70222a60d2b10116963caed317273741827ca/Campfire_Invite_New_User%20copy.png)
 4. Enter the details for a new user—for example, if your email address is alice@example.com, you can invite alice+sameroom-campfire-bot@example.com, which will go to your regular inbox![Bot User Details](https://in.kato.im/78e222340221c30dcb0a2f2544052817eff953a425f5f3ac7b1d4fec020025/Campfire%20Invite%20New%20User%202%20copy.png)
 
+5. Follow the instructions in the Campfire email to setup the "bot" user account
+
 ### 2. Authorizing Campfire to work with Sameroom
 
 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
