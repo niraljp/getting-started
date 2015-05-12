@@ -1,6 +1,6 @@
 ---
 
-## Authorizing with Slack
+## Authorizing Sameroom with Slack
 
 ### 1. Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
 
