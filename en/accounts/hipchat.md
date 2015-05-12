@@ -1,3 +1,7 @@
+---
+###Add a New HipChat Account to Sameroom
+
+
 To add a HipChat team to your Sameroom account follow these steps.
 
 1. Go to your <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and log in
