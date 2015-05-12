@@ -1,5 +1,5 @@
 ---
-###Add a New Gitter Account to Sameroom
+###Add a Gitter Account to your Sameroom Account
 
 To add a Gitter team to your Sameroom account follow these steps.
 
