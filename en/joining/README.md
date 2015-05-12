@@ -1,6 +1,6 @@
 ---
 
-## Joining a channel or room via a Portal URL
+## Joining a Channel or Room via a Portal URL
 
 If you've been sent a Portal URL and would like to join the conversation, select your chat platform below.
 
