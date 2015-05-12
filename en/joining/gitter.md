@@ -1,4 +1,8 @@
-##A Portal URL will allow you to connect to a channel or room on the senders chat platform with your Gitter account. 
+---
+
+##Joining a Portal with Gitter
+
+###A Portal URL will allow you to connect to a channel or room on the senders chat team with your Gitter account. 
 
 ### 1. Go to the Portal URL you’ve received. The URL looks something like this `https://sameroom.io/98IX89`
 
