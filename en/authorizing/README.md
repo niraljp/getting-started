@@ -4,7 +4,7 @@
 
 ###This section outlines the first step in getting started with Sameroom. You'll need to authorize Sameroom to integrate with your chat platform. 
 
-*Note: If you are a member of two or more chat teams and you wish to connect channels or rooms between teams, pick one platform to authorize first and then [add more platforms](/getting-started/en/accounts/README) to your account later.*
+####Note: If you are a member of two or more chat teams and you wish to connect channels or rooms between teams, pick one platform to authorize first and then [add more platforms](/getting-started/en/accounts/README) to your account later.
 
 ---
 
