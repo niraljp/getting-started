@@ -56,14 +56,19 @@
                     ]
                 },
                 {
-                    "title": "Connecting Two Teams",
+                    "title": "Connecting Chats",
                     "type": "category",
-                    "src": "tubes",
+                    "src": "tubes-portals",
                     "entities": [
                         {
                             "type": "page",
-                            "src": "README",
+                            "src": "tubes",
                             "title": "Creating a Tube"
+                        },
+                        {
+                            "type": "page",
+                            "src": "portals",
+                            "title": "Creating a Portal"
                         }
                     ]
                 },
@@ -161,15 +166,15 @@
                         }
                     ]
                 },
-                {
-                    "title": "Sharing Chats",
+                 {
+                    "title": "Limitations",
                     "type": "category",
-                    "src": "portals",
+                    "src": "limitations",
                     "entities": [
                         {
                             "type": "page",
                             "src": "README",
-                            "title": "Creating Portal"
+                            "title": "Limitations"
                         }
                     ]
                 }
