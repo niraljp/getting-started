@@ -15,4 +15,4 @@ To add a Skype account to your Sameroom account follow these steps.
 
 ![Skype login on Sameroom](https://in.kato.im/ff8415e1ee85bf542171c5cb862dbc30fe899f43f9c76ca338898b2f928fe4a/Sameroom%20Sign%20In%20Skype%20copy.png)
 
-Now that you've added Skype to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between a Skype conversation and a chat room or channel in any of the other teams connected to your Sameroom account.
+Now that you've added Skype to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between a Skype conversation and a chat room or channel in any of the other teams connected to your Sameroom account.
