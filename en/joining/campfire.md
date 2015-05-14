@@ -23,3 +23,5 @@
 ---
 
 ###Learn how to share one of your own chat rooms by [creating a Portal](/getting-started/en/tubes-portals/portals) or connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes).
+
+---
