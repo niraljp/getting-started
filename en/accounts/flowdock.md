@@ -19,5 +19,5 @@ To add a Flowdock team to your Sameroom account follow these steps.
 
 ![Flowdock logo on Sameroom](https://in.kato.im/821960fbc57b72cc9d012b9a2bd0413203c032ad2b7dbd77fbaad5e5948ab/Sameroom%20Authorize%20Flowdock%20copy.png)
 
-Now that you've added Flowdock to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between a Flowdock Flow and a chat room or channel in any of the other teams connected to your Sameroom account.
+Now that you've added Flowdock to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between a Flowdock Flow and a chat room or channel in any of the other teams connected to your Sameroom account.
 
