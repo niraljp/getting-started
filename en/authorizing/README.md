@@ -8,7 +8,7 @@ If you are a member of two or more chat teams and you wish to connect channels o
 
 Click on your platform below and follow the instructions on the page to authorize Sameroom.
 
-## - [IRC](/getting-started/en/authorizing/irc)  
+### - [IRC](/getting-started/en/authorizing/irc)  
 ## - [Campfire](/getting-started/en/authorizing/campfire)  
 ## - [HipChat](/getting-started/en/authorizing/hipchat)  
 ## - [Flowdock](/getting-started/en/authorizing/flowdock)  
