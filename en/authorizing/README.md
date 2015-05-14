@@ -17,6 +17,6 @@ Authorizing Sameroom With Your Chat Platform
 - [**Gitter**](/getting-started/en/authorizing/gitter)  
 - [**Skype**](/getting-started/en/authorizing/skype)
 
----
+----
 If you are a member of two or more chat teams and you wish to connect channels or rooms between teams, pick one platform to authorize first and then [add more platforms](/getting-started/en/accounts/README) to your account later.
----
+----
