@@ -20,4 +20,4 @@ To add a Slack team to your Sameroom account follow these steps.
 ![Authorize Slack](https://in.kato.im/87ae75b3e8b55eb5a119eaa24ec391de561c3869bdb3855a8c9a71bcba5cb155/Sameroom%20Authorize%20Slack%20copy.png)
 
 
-Now that you've added Slack to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between a Slack channel and a chat room or channel in any of the other teams connected to your Sameroom account.
+Now that you've added Slack to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between a Slack channel and a chat room or channel in any of the other teams connected to your Sameroom account.
