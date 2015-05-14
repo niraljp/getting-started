@@ -2,7 +2,7 @@
 Authorizing Sameroom with HipChat
 ---
 
-####Note: due to certain limitations of the HipChat API, we highly recommend inviting a ”sameroom bot” account to your HipChat team, and using this account to create Portals and Tubes on Sameroom.
+####Note: due to certain limitations of the HipChat API, we highly recommend inviting a "Sameroom Bot" account to your HipChat team, and using this account to create Portals and Tubes on Sameroom.
 
 ---
 
