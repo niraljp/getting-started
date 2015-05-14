@@ -23,5 +23,4 @@ Authorizing Sameroom with Gitter
 ![clip.png](https://in.kato.im/aa9251d847726e07de93f0ac3c6b92b46e74632d71e52f6b6658e7f389410e3/Sameroom%20Gitter%20Allow%20Access.png)
 
 ---
-Once you've authorized your Gitter account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a channel via a [Portal URL](/getting-started/en/tubes-portals/portals).
----
+####Once you've authorized your Gitter account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a channel via a [Portal URL](/getting-started/en/tubes-portals/portals).
