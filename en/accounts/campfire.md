@@ -1,5 +1,5 @@
 ---
-##Add a Campfire Account to your Sameroom Account
+Add a Campfire Account to your Sameroom Account
 ---
 
 #####Go to your <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page
@@ -19,5 +19,5 @@
 ![Campfire Authorize Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
 
 ---
+
 ####Now that you've added Campfire to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between a Campfire room and a chat room or channel in any of the other teams connected to your Sameroom account.
----
