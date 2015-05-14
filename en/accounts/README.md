@@ -1,7 +1,7 @@
 ---
 ## Adding a New Chat Team to Sameroom
 
-Click on your platform below and follow the instructions on the page to add a new chat team to your Sameroom account. You can add as many teams as you wish.
+Click on your chat platform below and follow the instructions on the page to add a new chat team to your Sameroom account. You can add as many teams as you wish.
 
 - [IRC](/getting-started/en/accounts/irc)
 - [Skype](/getting-started/en/accounts/skype)
