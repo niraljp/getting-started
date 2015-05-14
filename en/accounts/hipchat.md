@@ -24,4 +24,4 @@ To add a HipChat team to your Sameroom account follow these steps.
 
 ![HipChat Token field](https://in.kato.im/d8d4f1003421016ba7d54cd669dde49319229ba235bc766285b205fd2d44078d/Sameroom%20Sign%20In%20HipChat%20copy.png)
 
-Now that you've added HipChat to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between a HipChat room and a chat room or channel in any of the other teams connected to your Sameroom account.
+Now that you've added HipChat to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between a HipChat room and a chat room or channel in any of the other teams connected to your Sameroom account.
