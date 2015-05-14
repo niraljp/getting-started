@@ -15,4 +15,4 @@ To add an irc account to your Sameroom account follow these steps.
 
 ![Skype login on Sameroom](https://in.kato.im/d629475a6d136c2e4b15671e1f0868549a18449fced9d01161a20dae7884f1bd/Sameroom%20Sign%20in%20IRC.png)
 
-Now that you've added irc to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between an irc channel and a chat room or channel in any of the other teams connected to your Sameroom account.
+Now that you've added irc to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between an irc channel and a chat room or channel in any of the other teams connected to your Sameroom account.
