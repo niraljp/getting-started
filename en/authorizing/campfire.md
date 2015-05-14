@@ -42,5 +42,5 @@ Authorizing Sameroom with Campfire
 
 
 ---
-Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
----
+
+####Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
