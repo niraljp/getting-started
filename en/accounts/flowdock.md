@@ -2,6 +2,7 @@
 Add a Flowdock Account to your Sameroom Account
 ---
 
+####To add a Flowdock team to your Sameroom account follow these steps.
 
 #####Go to your <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page
 
