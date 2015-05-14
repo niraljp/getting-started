@@ -115,7 +115,7 @@
                     ]
                 },
                 {
-                    "title": "Joining a Portal",
+                    "title": "Join Portals",
                     "type": "category",
                     "src": "joining",
                     "entities": [
@@ -162,7 +162,7 @@
                     ]
                 },
                 {
-                    "title": "Sharing a Chat",
+                    "title": "Sharing Chats",
                     "type": "category",
                     "src": "portals",
                     "entities": [
