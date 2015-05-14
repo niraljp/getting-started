@@ -1,6 +1,6 @@
 ---
 
-## Authorizing Sameroom to Work With Your Chat Platform
+## Authorizing Sameroom With Your Chat Platform
 
 This section outlines the first step in getting started with Sameroom. You'll need to authorize Sameroom to integrate with your chat platform. 
 
