@@ -1,6 +1,5 @@
 ---
-## Authorizing Sameroom with Flowdock
-
+Authorizing Sameroom with Flowdock
 ---
 
 #####Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
@@ -18,5 +17,5 @@
 ![Flowdock logo on Sameroom](https://in.kato.im/821960fbc57b72cc9d012b9a2bd0413203c032ad2b7dbd77fbaad5e5948ab/Sameroom%20Authorize%20Flowdock%20copy.png)
 
 ---
-####Once you've authorized your Flowdock account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a Flow via a [Portal URL](/getting-started/en/tubes-portals/portals).
+Once you've authorized your Flowdock account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a Flow via a [Portal URL](/getting-started/en/tubes-portals/portals).
 ---
