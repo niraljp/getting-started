@@ -22,5 +22,5 @@ To add a Kato team to your Sameroom account follow these steps.
 
 ![approve access](https://in.kato.im/72445279e5c3634c2b39a8b267b48905d33c6236484ff571e60f72bf8560acb/Sameroom%20Kato%20Allow%20Access%20copy.png)
 
-Now that you've added Kato to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between a Kato room and a chat room or channel in any of the other teams connected to your Sameroom account.
+Now that you've added Kato to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between a Kato room and a chat room or channel in any of the other teams connected to your Sameroom account.
 
