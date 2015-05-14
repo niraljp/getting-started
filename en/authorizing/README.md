@@ -10,8 +10,8 @@
 
 ####Click on your platform below and follow the instructions on the page to authorize Sameroom.
 
-#####[IRC](/getting-started/en/authorizing/irc)  
-#####[Campfire](/getting-started/en/authorizing/campfire)  
+######[IRC](/getting-started/en/authorizing/irc)  
+[Campfire](/getting-started/en/authorizing/campfire)  
 #####[Flowdock](/getting-started/en/authorizing/flowdock)  
 #####[HipChat](/getting-started/en/authorizing/hipchat)  
 #####[Kato](/getting-started/en/authorizing/kato)  
