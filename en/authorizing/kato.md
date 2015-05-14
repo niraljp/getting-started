@@ -24,5 +24,5 @@ Authorizing Sameroom with Kato
 ![Sameroom Approve Access for Kato](https://in.kato.im/72445279e5c3634c2b39a8b267b48905d33c6236484ff571e60f72bf8560acb/Sameroom%20Kato%20Allow%20Access%20copy.png)
 
 ---
-Once you've authorized your Kato account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
----
+
+####Once you've authorized your Kato account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
