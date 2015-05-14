@@ -3,7 +3,9 @@
 ---
 
 #####Go to your <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page
+
 #####Click on "Add an Account"
+
 #####Click on the Campfire Logo
 
 ![Campfire on Sameroom](https://in.kato.im/f3c020d24f45a3b830b5b8fb81956b4d796cbaeed80ec825cb6b509fe56af21e/Sameroom%20Add%20Campfire%20Account%20copy.png)
