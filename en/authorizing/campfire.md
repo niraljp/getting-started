@@ -1,5 +1,5 @@
 ---
-## Authorizing Sameroom with Campfire
+Authorizing Sameroom with Campfire
 ---
 
 ####Note: due to certain limitations of the Campfire platform, we highly recommend inviting a "Sameroom Bot" account to your Campfire team, and using this account to create Portals and Tubes on Sameroom. (why a bot? <a href="https://sameroom.io/faq#campfire" target="_blank">see the FAQ for an explanation</a>)
@@ -37,5 +37,5 @@
 ![Campfire logo on Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
 
 ---
-####Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
+Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
 ---
