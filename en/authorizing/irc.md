@@ -16,11 +16,11 @@ To learn more, please consult the [Freenode FAQ](https://freenode.net/faq.shtml#
 ### 2. Click on IRC
 ![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0004_irc.png)
 
-### 3. Enter your irc credentials and Sign In
+### 3. Enter your IRC credentials and Sign In
 ![clip.png](https://in.kato.im/d629475a6d136c2e4b15671e1f0868549a18449fced9d01161a20dae7884f1bd/Sameroom%20Sign%20in%20IRC.png)
 
 
-Once you've logged in to your irc account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tube/irc) or, share a channel via a [Portal URL](/getting-started/en/portal/irc).
+Once you've logged into your IRC account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a channel via a [Portal URL](/getting-started/en/tubes-portals/portals).
 
 
 ---
