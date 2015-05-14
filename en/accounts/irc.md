@@ -2,7 +2,7 @@
 Add an IRC Account to your Sameroom Account
 ---
 
-####To add an irc account to your Sameroom account follow these steps.
+####To add an IRC account to your Sameroom account follow these steps.
 
 #####Go to your <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page
 
