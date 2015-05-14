@@ -73,9 +73,9 @@
                     ]
                 },
                 {
-                    "title": "Add Accounts",
+                    "title": "Join Portals",
                     "type": "category",
-                    "src": "accounts",
+                    "src": "joining",
                     "entities": [
                         {
                             "type": "page",
@@ -120,9 +120,9 @@
                     ]
                 },
                 {
-                    "title": "Join Portals",
+                    "title": "Add Accounts",
                     "type": "category",
-                    "src": "joining",
+                    "src": "accounts",
                     "entities": [
                         {
                             "type": "page",
