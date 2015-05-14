@@ -35,4 +35,4 @@
 12. Copy the OAuth 2 Bearer Token into the HipChat Token field and click **Submit**
 ![clip.png](https://in.kato.im/d8d4f1003421016ba7d54cd669dde49319229ba235bc766285b205fd2d44078d/Sameroom%20Sign%20In%20HipChat%20copy.png)
 
-Once you've authorized your HipChat account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
+Once you've authorized your HipChat account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
