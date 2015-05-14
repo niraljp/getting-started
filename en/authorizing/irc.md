@@ -35,6 +35,7 @@ Below is video example showing how to mirror a Freenode IRC channel in Slack.
 
 <iframe src="https://player.vimeo.com/video/125378136" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+
 ---
 
 ####Once you've logged into your IRC account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a channel via a [Portal URL](/getting-started/en/tubes-portals/portals).
