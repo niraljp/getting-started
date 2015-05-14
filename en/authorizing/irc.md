@@ -29,8 +29,6 @@ Sameroom will only let you connect registered channels. For example, to register
 
 ![clip.png](https://in.kato.im/d629475a6d136c2e4b15671e1f0868549a18449fced9d01161a20dae7884f1bd/Sameroom%20Sign%20in%20IRC.png)
 
----
-
 Below is video example showing how to mirror a Freenode IRC channel in Slack.
 
 <iframe src="https://player.vimeo.com/video/125378136" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
