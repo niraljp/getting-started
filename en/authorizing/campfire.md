@@ -2,7 +2,7 @@
 ## Authorizing Sameroom with Campfire
 ---
 
-####Note: due to certain limitations of the Campfire platform, we highly recommend inviting a ”sameroom bot” account to your Campfire team, and using this account to create Portals and Tubes on Sameroom. (why a bot? <a href="https://sameroom.io/faq#campfire" target="_blank">see the FAQ for an explanation</a>)
+####Note: due to certain limitations of the Campfire platform, we highly recommend inviting a "Sameroom Bot" account to your Campfire team, and using this account to create Portals and Tubes on Sameroom. (why a bot? <a href="https://sameroom.io/faq#campfire" target="_blank">see the FAQ for an explanation</a>)
 
 ---
 
