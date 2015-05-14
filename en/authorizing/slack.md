@@ -16,4 +16,4 @@
 ### 4. Once you’ve signed into your team click “Authorizify”
 ![Authorize Slack](https://in.kato.im/87ae75b3e8b55eb5a119eaa24ec391de561c3869bdb3855a8c9a71bcba5cb155/Sameroom%20Authorize%20Slack%20copy.png)
 
-### Once you've authorized your Slack account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tube/slack) or, share a channel via a [Portal URL](/getting-started/en/portal/slack).
+Once you've authorized your Slack account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a channel via a [Portal URL](/getting-started/en/tubes-portals/portals).
