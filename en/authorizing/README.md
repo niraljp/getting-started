@@ -8,13 +8,13 @@
 
 ---
 
-#####Click on your platform below and follow the instructions on the page to authorize Sameroom.
+####Click on your platform below and follow the instructions on the page to authorize Sameroom.
 
-####[IRC](/getting-started/en/authorizing/irc)  
-####[Campfire](/getting-started/en/authorizing/campfire)  
-####[Flowdock](/getting-started/en/authorizing/flowdock)  
-####[HipChat](/getting-started/en/authorizing/hipchat)  
-####[Kato](/getting-started/en/authorizing/kato)  
-####[Slack](/getting-started/en/authorizing/slack)  
-####[Gitter](/getting-started/en/authorizing/gitter)  
-####[Skype](/getting-started/en/authorizing/skype)
+#####[IRC](/getting-started/en/authorizing/irc)  
+#####[Campfire](/getting-started/en/authorizing/campfire)  
+#####[Flowdock](/getting-started/en/authorizing/flowdock)  
+#####[HipChat](/getting-started/en/authorizing/hipchat)  
+#####[Kato](/getting-started/en/authorizing/kato)  
+#####[Slack](/getting-started/en/authorizing/slack)  
+#####[Gitter](/getting-started/en/authorizing/gitter)  
+#####[Skype](/getting-started/en/authorizing/skype)
