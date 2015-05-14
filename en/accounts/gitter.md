@@ -21,4 +21,4 @@ To add a Gitter team to your Sameroom account follow these steps.
 
 ![Gitter Allow](https://in.kato.im/aa9251d847726e07de93f0ac3c6b92b46e74632d71e52f6b6658e7f389410e3/Sameroom%20Gitter%20Allow%20Access.png)
 
-Now that you've added Gitter to you Sameroom account you can [create a Tube](/getting-started/en/tubes) between a Gitter room and a chat room or channel in any of the other teams connected to your Sameroom account.
+Now that you've added Gitter to you Sameroom account you can [create a Tube](/getting-started/en/tubes-portals/tubes) between a Gitter room and a chat room or channel in any of the other teams connected to your Sameroom account.
