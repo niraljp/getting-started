@@ -20,7 +20,7 @@ To learn more, please consult the [Freenode FAQ](https://freenode.net/faq.shtml#
 ![clip.png](https://in.kato.im/d629475a6d136c2e4b15671e1f0868549a18449fced9d01161a20dae7884f1bd/Sameroom%20Sign%20in%20IRC.png)
 
 
-Once you've logged into your IRC account, you can either; connect two chat platforms by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a channel via a [Portal URL](/getting-started/en/tubes-portals/portals).
+Once you've logged into your IRC account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a channel via a [Portal URL](/getting-started/en/tubes-portals/portals).
 
 
 ---
