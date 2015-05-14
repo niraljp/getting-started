@@ -29,4 +29,4 @@
 ![Campfire logo on Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
 
 
-Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes/campfire) or, share a channel via a [Portal URL](/getting-started/en/portals/campfire).
+Once you've authorized your Campfire account, you can either; connect two chat teams by [creating a Tube](/getting-started/en/tubes-portals/tubes) or, share a chat room via a [Portal URL](/getting-started/en/tubes-portals/portals).
