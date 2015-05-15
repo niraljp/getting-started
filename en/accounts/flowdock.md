@@ -13,7 +13,7 @@ Add a Flowdock Account to your Sameroom Account
 ![Flowdock on Sameroom](https://in.kato.im/e396458e8b6e242c0d1144e233b3a018f6b814fe4f2587e6cfbc36ce8a751/Sameroom%20Add%20Flowdock%20account%20copy.png)
 
 
-#####Enter your Flowdock credentials,
+#####Enter your Flowdock credentials and click "LOG IN",
 
 ![Flowdock logo on Sameroom](https://in.kato.im/d5aeee26876054e3a6090772f31c5da54bb53ce048a82cb33d0427c263b587c9/Sameroom%20Login%20to%20Flowdock%20copy.png)
 
