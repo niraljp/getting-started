@@ -12,7 +12,7 @@ Sharing a Channel or Chat Room via a Portal URL
 
 #####Type the name of the channel or chat room that you wish to share and click on it in the dropdown menu;
 
-![Create or Select Channel](https://in.kato.im/36d49554b752b7144051ab70fb3db836b3e74edbbc60efbd62bed1009577403c/Sameroom%20Create%20Slack%20Portal%20copy.png)
+![Create or Select Channel](https://in.kato.im/a5b9b55bfa0f712a458dcafb21c7f265d3e031335a43a85fe1fd249ba1370f3/Sameroom-Share-Channel-or-Room-_0000_Source.png)
 
 
 #####Share your Portal URL with anyone you’d like to invite to your channel or chat room.
