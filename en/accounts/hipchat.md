@@ -33,7 +33,7 @@ Add a HipChat Account to your Sameroom Account
 
 #####Click "OK" in the pop-up message,
 
-#####Go to your <a href="https://sameroom.io/accounts/" target="_blank">Sameroom accounts</a> page
+#####Go to your <a href="https://sameroom.io/accounts/" target="_blank">Sameroom accounts</a> page,
 
 #####Click on "Add an Account",
 
