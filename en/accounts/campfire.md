@@ -16,7 +16,7 @@ Add a Campfire Account to your Sameroom Account
 
 ![Campfire logo on Sameroom](https://in.kato.im/ea3ee090c3ecaad0f7d98dfdb24ed20e5a89238a140febb8aefd2e7b21478f/Sameroom%20Login%20to%20Campfire.png)
 
-#####Click “Yes, I'll allow access”
+#####Click “Yes, I'll allow access” to authorize Sameroom to integrate with your Campfire account.
 
 ![Campfire Authorize Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
 
