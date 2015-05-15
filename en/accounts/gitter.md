@@ -6,7 +6,7 @@ Add a Gitter Account to your Sameroom Account
 
 #####Go to your <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page,
 
-#####Click on Add an Account,
+#####Click on "Add an Account",
 
 #####Click on the Gitter Logo,
 
