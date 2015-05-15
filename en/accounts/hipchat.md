@@ -5,7 +5,7 @@ Add a HipChat Account to your Sameroom Account
 
 ---
 
-#####Log in to your <a href="https://www.hipchat.com/sign_in" target="_blank">HipChat account </a>,
+#####Log in to your <a href="https://www.hipchat.com/sign_in" target="_blank">HipChat account</a>,
 
 #####Click on "Group Admin" (You'll need admin access),
 
