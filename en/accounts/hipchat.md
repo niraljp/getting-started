@@ -1,8 +1,29 @@
 ---
 Add a HipChat Account to your Sameroom Account
 ---
+####Note: due to certain limitations of the HipChat API, we highly recommend inviting a "Sameroom Bot" account to your HipChat team, and using this account to create Portals and Tubes on Sameroom.
 
-####To add a HipChat team to your Sameroom account follow these steps:
+---
+
+#####Log in to your <a href="https://www.hipchat.com/sign_in" target="_blank">HipChat account </a>,
+
+#####Click on "Group Admin" (You'll need admin access),
+
+![HipChat Group Admin](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom_HipChat_Group_Admin.png)
+
+#####Click on the "Users" tab,
+
+![HipChat Users Tab](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom_Click_users.png)
+
+#####Click on "Add",
+
+![Add HipChat User](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom_Add_User.png)
+
+#####Enter the details for the "bot" user and click "Add user" (if your email address is alice@example.com, you can invite alice+sameroom-campfire-bot@example.com, which will go to your regular inbox),
+
+![HipChat User Details](https://in.kato.im/ddbb26118fdbbcb6ef1adc1fbf232acdda8866fe065ac4ae2c07dfd7a7c9f/Sameroom%20HipChat%20Add%20User.png)
+
+#####Follow the instructions in the HipChat email to setup the "bot" user account,
 
 #####Go to your <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and log in,
 
@@ -10,8 +31,7 @@ Add a HipChat Account to your Sameroom Account
 
 ![Recreate token for Sameroom](https://in.kato.im/dd9055f7d2f3bcad535ee373c06d649993c5d30f919639e6bb1b9665efa7a016/Sameroom_HipChat_Account_Settings.png)
 
-
-#####Click "OK" in the Pop Up Message,
+#####Click "OK" in the pop-up message,
 
 #####Go to your <a href="https://sameroom.io/accounts/" target="_blank">Sameroom accounts</a> page
 
