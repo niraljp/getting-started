@@ -17,7 +17,7 @@ Authorizing Sameroom with Campfire
 ![Campfire Invite New User](https://in.kato.im/adfcd5c5becfa666c6cf186c3b70222a60d2b10116963caed317273741827ca/Campfire_Invite_New_User%20copy.png)
 
 
-#####Enter the details for a new user (for example, if your email address is alice@example.com, you can invite alice+sameroom-campfire-bot@example.com, which will go to your regular inbox),
+#####Enter the details for a new user and click "Send Invitation Email" (for example, if your email address is alice@example.com, you can invite alice+sameroom-campfire-bot@example.com, which will go to your regular inbox),
 
 ![Bot User Details](https://in.kato.im/78e222340221c30dcb0a2f2544052817eff953a425f5f3ac7b1d4fec020025/Campfire%20Invite%20New%20User%202%20copy.png)
 
@@ -31,7 +31,7 @@ Authorizing Sameroom with Campfire
 ![Campfire on Sameroom](https://in.kato.im/b450e18e6de4847cc19396187d655a94b4a7bb5f6c417d0f7ba124d942f6738d/Sameroom-Select-Platform-_0001_Campfire.png)
 
 
-#####Enter the "bot" account credentials,
+#####Enter the "bot" account credentials and click "Sign In",
 
 ![Campfire logo on Sameroom](https://in.kato.im/ea3ee090c3ecaad0f7d98dfdb24ed20e5a89238a140febb8aefd2e7b21478f/Sameroom%20Login%20to%20Campfire.png)
 
