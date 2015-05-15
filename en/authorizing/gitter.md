@@ -2,9 +2,9 @@
 Authorizing Sameroom with Gitter
 ---
 
-#####Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
+#####Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>,
 
-#####Click on the Gitter logo
+#####Click on the Gitter logo,
 
 ![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0005_Gitter.png)
 
