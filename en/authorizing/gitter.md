@@ -8,7 +8,7 @@ Authorizing Sameroom with Gitter
 
 ![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0005_Gitter.png)
 
-#####Click **Existing User Login**
+#####Click *Existing User Login*
 
 ![clip.png](https://in.kato.im/7e86a1bddf01d59bfef74bed687d27c4ccf56b6d5f767628f43b81c1ba77dcd/Sameroom%20Gitter%20Existing%20User.png)
 
