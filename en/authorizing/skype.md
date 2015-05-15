@@ -2,16 +2,16 @@
 Authorizing Sameroom with Skype
 ---
 
-#####Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>
+#####Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>,
 
-#####Click on the Skype logo
+#####Click on the Skype logo,
 
 ![Skype on Sameroom](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0006_Skype.png)
 
 
-#####Sign into your Skype account
-![Skype login on Sameroom](https://in.kato.im/ff8415e1ee85bf542171c5cb862dbc30fe899f43f9c76ca338898b2f928fe4a/Sameroom%20Sign%20In%20Skype%20copy.png)
+#####Enter your Skype credentials and click "Sign In" to authorize Sameroom with your Skype account.
 
+![Skype login on Sameroom](https://in.kato.im/ff8415e1ee85bf542171c5cb862dbc30fe899f43f9c76ca338898b2f928fe4a/Sameroom%20Sign%20In%20Skype%20copy.png)
 
 ---
 
