@@ -26,7 +26,7 @@ Authorizing Sameroom with Campfire
 
 #####Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a>,
 
-#####Click on the Campfire Logo,
+#####Click on the Campfire logo,
 
 ![Campfire on Sameroom](https://in.kato.im/b450e18e6de4847cc19396187d655a94b4a7bb5f6c417d0f7ba124d942f6738d/Sameroom-Select-Platform-_0001_Campfire.png)
 
@@ -36,7 +36,7 @@ Authorizing Sameroom with Campfire
 ![Campfire logo on Sameroom](https://in.kato.im/ea3ee090c3ecaad0f7d98dfdb24ed20e5a89238a140febb8aefd2e7b21478f/Sameroom%20Login%20to%20Campfire.png)
 
 
-#####Click “Yes, I'll allow access” to add Campfire to your Sameroom.
+#####Click “Yes, I'll allow access” to authorize Sameroom with your Campfire account.
 
 ![Campfire logo on Sameroom](https://in.kato.im/c2a45e48a70f8dd417fea123f11a175cbbc5afa2cefa369f7f143a4a4b89a72a/Sameroom%20Authorize%20Campfire.png)
 
