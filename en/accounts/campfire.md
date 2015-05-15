@@ -2,7 +2,7 @@
 Add a Campfire Account to your Sameroom Account
 ---
 
-####To add a Campfire team to your Sameroom account follow these steps.
+####To add a Campfire team to your Sameroom account follow these steps:
 
 #####Go to your <a href="https://sameroom.io/accounts/" target="_blank">accounts</a> page
 
