@@ -18,7 +18,7 @@ Add a Slack Account to your Sameroom Account
 ![Select your team](https://in.kato.im/240cbcbb342402312fa7151b4bd2e675c6e382bfcfd53d0fc237fff2ea31ede/Sameroom%20Select%20Slack%20Team%20copy.png)
 
 
-#####Enter your team's Slack domain,
+#####Enter your team's Slack domain and click "Continue",
 
 ![Signin to new Slack team](https://in.kato.im/94113cdefdeab86c7efc52184afcb4a1433708dc46bec82ad8860cff679aa51/Sameroom%20Sign%20In%20Slack.png)
 
