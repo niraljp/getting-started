@@ -8,7 +8,7 @@ Authorizing Sameroom with Gitter
 
 ![clip.png](https://in.kato.im/c76bb40f2a2e9a68eaa13a3ae2c8d8e4627c565c77aca6158f001f5492ec7724/Sameroom-Select-Platform-_0005_Gitter.png)
 
-#####Click Existing User Login",
+#####Click "Existing User Login",
 
 ![clip.png](https://in.kato.im/7e86a1bddf01d59bfef74bed687d27c4ccf56b6d5f767628f43b81c1ba77dcd/Sameroom%20Gitter%20Existing%20User.png)
 
@@ -16,7 +16,7 @@ Authorizing Sameroom with Gitter
 
 ![clip.png](https://in.kato.im/a66d9613852faf2941fb3c79207e40707c4b900df32a89ae1a3da9a0371ce04a/Sameroom%20Gitter%20Login.png)
 
-#####Click Authorize application (if required),
+#####Click "Authorize Application" (if required),
 
 #####Click "Allow" to authorize Sameroom with your Gitter account.
 
