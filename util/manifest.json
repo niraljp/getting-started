@@ -167,7 +167,7 @@
                     ]
                 },
                  {
-                    "title": "Limitations",
+                    "title": "Messages",
                     "type": "category",
                     "src": "messages",
                     "entities": [
