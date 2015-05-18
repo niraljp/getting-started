@@ -17,3 +17,9 @@ Messages
 - [**Gitter**](/getting-started/en/messages/gitter)
 
 ---
+
+Structure for each page:
+How messages appear in each platform
+How files are transfered between platforms
+Any message limits for each platform
+Other limitations
