@@ -1,5 +1,5 @@
 ---
-Adding a New Chat Team to Sameroom
+Add a New Chat Team to Sameroom
 ---
 
 ####This section outlines the process for adding new chat accounts to your Sameroom account. Once you've added a new team, you can [create a Tube](/getting-started/en/tubes-portals/tubes) to connect channels and rooms between two chat teams.
