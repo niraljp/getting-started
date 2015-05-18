@@ -169,7 +169,7 @@
                  {
                     "title": "Limitations",
                     "type": "category",
-                    "src": "limitations",
+                    "src": "messages",
                     "entities": [
                         {
                             "type": "page",
