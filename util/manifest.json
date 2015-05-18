@@ -9,7 +9,7 @@
             "improve": "Improve this article",
             "entities": [
                 {
-                    "title": "Authorizing",
+                    "title": "Authorize",
                     "type": "category",
                     "src": "authorizing",
                     "entities": [
@@ -56,19 +56,19 @@
                     ]
                 },
                 {
-                    "title": "Connecting Chat Teams",
+                    "title": "Connect Chat Teams",
                     "type": "category",
                     "src": "tubes-portals",
                     "entities": [
                         {
                             "type": "page",
                             "src": "tubes",
-                            "title": "Creating a Tube"
+                            "title": "Create a Tube"
                         },
                         {
                             "type": "page",
                             "src": "portals",
-                            "title": "Creating a Portal"
+                            "title": "Create a Portal"
                         }
                     ]
                 },
