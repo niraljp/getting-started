@@ -28,19 +28,23 @@ Authorizing Sameroom with HipChat
 
 #####Go to the <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and login with your "bot" user credentials,
 
-#####Click on "Re-create token" to re-create the "bot" users Personal OAuth 2 Bearer Token,
+#####Enter "sameroom" for the label
 
-![clip.png](https://in.kato.im/dd9055f7d2f3bcad535ee373c06d649993c5d30f919639e6bb1b9665efa7a016/Sameroom_HipChat_Account_Settings.png)
+#####Select "Send Messages", "View Messages" and "View Room" (by holding the cmd or Ctrl key)
 
+#####Click on "Create" to create a new token
 
-#####Click "OK" in the pop-up message,
+![Recreate token for Sameroom](https://in.kato.im/7eb2175036b20a9c4f572723f06ec357791724c29407a1c3a6521db7bf57b4f/Create%20HipChat%20Token%20Sameroom.png)
 
-#####Go to <a href="https://sameroom.io" target="_blank">sameroom.io</a> and click on the HipChat logo,
+#####Go to your <a href="https://sameroom.io/accounts/" target="_blank">Sameroom accounts</a> page,
 
-![clip.png](https://in.kato.im/4c8bbe1a1338bc5da71ffd614e9be70a5694f208c138479c6de1a784f1d61d89/Sameroom%20HipChat.png)
+#####Click on "Add an Account",
 
+#####Click on the HipChat Logo,
 
-#####Copy the OAuth 2 Bearer Token into the HipChat Token field and click "Submit" to authorize Sameroom with your HipChat account.
+![HipChat logo on Sameroom](https://in.kato.im/d0098794f49e3a01891fa6e4a89ed43ccd9d2ac075d9007931cf59bf215e3f9b/Sameroom%20Add%20HipChat%20Account%20copy.png)
+
+#####Copy your "sameroom" token and click "Submit" to add HipChat to your Sameroom account. 
 
 ![clip.png](https://in.kato.im/d8d4f1003421016ba7d54cd669dde49319229ba235bc766285b205fd2d44078d/Sameroom%20Sign%20In%20HipChat%20copy.png)
 
