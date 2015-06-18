@@ -25,7 +25,7 @@ Add a HipChat Account to your Sameroom Account
 
 #####Follow the instructions in the HipChat email to setup the "bot" user account,
 
-#####Go to your <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and log in,
+#####Go to the <a href="https://hipchat.com/account/api" target="_blank">HipChat Account API</a> page and login with your "bot" user credentials,
 
 #####Enter "sameroom" for the label
 
@@ -42,7 +42,6 @@ Add a HipChat Account to your Sameroom Account
 #####Click on the HipChat Logo,
 
 ![HipChat logo on Sameroom](https://in.kato.im/d0098794f49e3a01891fa6e4a89ed43ccd9d2ac075d9007931cf59bf215e3f9b/Sameroom%20Add%20HipChat%20Account%20copy.png)
-
 
 #####Copy your "sameroom" token and click "Submit" to add HipChat to your Sameroom account. 
 
